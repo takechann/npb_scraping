@@ -1,2 +1,2 @@
 # npb_scraping
-npbのスクレイピング
+npbのスクレイピング実行
